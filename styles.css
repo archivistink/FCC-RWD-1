@@ -1,0 +1,58 @@
+#title{
+	text-align: center;
+    color: #073b3a;
+}
+
+#description{
+	text-align: center;
+}
+
+#survey-form{
+    background-color: #C5E99B;
+    width: 50%; 
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#name, #email, #number{
+    width: 80%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+body{
+    font-family: "Atkinson Hyperlegible", serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    color: #1F2124;
+    background-color: #8FBC94;
+}
+
+fieldset{
+    margin: 0 auto;
+    border: 0;
+    
+}
+
+textarea{
+    width: 80%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    resize: vertical;
+}
+
+#footer{
+    text-align: center;
+}
